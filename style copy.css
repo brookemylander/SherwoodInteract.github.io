@@ -1,0 +1,94 @@
+.jumbotron{
+	background-image: url("https://pbs.twimg.com/media/CC0MJQJUgAEgOxH.jpg");
+	background-size: cover;
+	height: 100%;
+
+}
+#title{
+
+}
+#jumbotext{
+	color:white;
+	text-shadow: 1px 1px 14px rgba(150, 150, 150, 1);
+	font-family: "Times New Roman", Times, serif;
+	font-size:100px;
+}
+#subtexth6{
+	color:white;
+	text-shadow: 1px 1px 14px rgba(150, 150, 150, 1);
+	font-family: "Times New Roman", Times, serif;
+	font-size:25px
+
+}
+#aboutdiv{
+	background-color:grey;
+}
+#eventsdiv{
+	background-color:white;
+}
+#announcementsdiv{
+	background-color:grey;
+}
+#feesdiv{
+	background-color:white;
+}
+#contactdiv{
+	background-color:grey;
+}
+#about{
+	font-size:75px;
+	font-family: "Times New Roman", Times, serif;
+	color:white;
+	text-shadow: 1px 1px 14px rgba(150, 150, 150, 1);
+}
+#events{
+	font-size:75px;
+	font-family: "Times New Roman", Times, serif;
+	color:white;
+	text-shadow: 1px 1px 14px rgba(150, 150, 150, 1);
+}
+#announcements{
+	font-size:75px;
+	font-family: "Times New Roman", Times, serif;
+	color:white;
+	text-shadow: 1px 1px 14px rgba(150, 150, 150, 1);
+}
+#fees{
+	font-size:75px;
+	font-family: "Times New Roman", Times, serif;
+	color:white;
+	text-shadow: 1px 1px 14px rgba(150, 150, 150, 1);
+}
+#contact{
+	font-size:75px;
+	font-family: "Times New Roman", Times, serif;
+
+}
+#body{
+	
+}
+#aboutbox {
+/*border-style: solid;
+    border-width: 1px;*/
+/*    background-color:gainsboro;*/
+}
+
+.heading{
+	color:gray;
+	
+}
+#title{
+	font-family: "Times New Roman", Times, serif;
+}
+li{
+	font-family: "Times New Roman", Times, serif;
+}
+.heading{
+	font-family: "Times New Roman", Times, serif;
+}
+.subheading{
+	font-family: "Times New Roman", Times, serif;
+}
+hr{
+	color:darkgrey;
+}
